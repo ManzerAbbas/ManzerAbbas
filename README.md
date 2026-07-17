@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer | NLP & Retrieval-Augmented Generation | Applied Deep Learning</h3>
 
 <p align="center">
-Building production-grade ML systems — from research to deployment.<br/>
+Building production-grade ML systems from research to deployment.<br/>
 Currently an AI/ML Engineer at <strong>H2O Labs</strong>, shipping applied NLP and RAG pipelines.
 </p>
 
@@ -15,9 +15,9 @@ Currently an AI/ML Engineer at <strong>H2O Labs</strong>, shipping applied NLP a
 
 ### About
 
-I build systems that sit at the intersection of NLP, retrieval, and production ML engineering — RAG pipelines, semantic search, and applied deep learning models that go beyond notebooks into deployable, evaluated software.
+I build systems that sit at the intersection of NLP, retrieval, and production ML engineering, RAG pipelines, semantic search, and applied deep learning models that go beyond notebooks into deployable, evaluated software.
 
-My work has spanned medical imaging research (co-authored a paper accepted at a **CVPR 2026 workshop**), financial time-series modeling, and LLM-powered automation tools — with a consistent focus on rigorous evaluation, not just working demos.
+My work has spanned medical imaging research (co-authored a paper accepted at a **CVPR 2026 workshop**), financial time-series modeling, and LLM-powered automation tools with a consistent focus on rigorous evaluation, not just working demos.
 
 - 🔬 Research: Vision Transformers for cross-domain generalization (CVPR Workshop 2026)
 - ⚙️ Engineering: Production NLP/RAG pipelines at H2O Labs
@@ -59,27 +59,27 @@ Hybrid semantic + lexical ranking engine for candidate–job matching at scale.
 #### 🔹 [PredictBit — Multi-Modal Market Prediction](#)
 Fused NLP sentiment signals with time-series market data for short-horizon Bitcoin price direction.
 - BERT-derived sentiment from 50k+ tweets combined with OHLCV features
-- Benchmarked CNN-LSTM, GRU, and XGBoost — CNN-LSTM outperformed the XGBoost baseline by **4.2pp** in high-volatility windows
-- Walk-forward validation across 6 market cycles to eliminate lookahead bias — a rigor gap in most academic work on this problem
+- Benchmarked CNN-LSTM, GRU, and XGBoost, CNN-LSTM outperformed the XGBoost baseline by **4.2pp** in high-volatility windows
+- Walk-forward validation across 6 market cycles to eliminate lookahead bias a rigor gap in most academic work on this problem
 
 #### 🔹 [Opportunity Inbox Copilot](#)
 LLM-powered email triage and prioritization system built on the Groq API.
 - Classified and ranked 200+ opportunity emails at **91% precision**
-- Structured, explainable outputs (fit score, urgency flag, action checklist) — reduced manual review time by an estimated 3 hrs/week
+- Structured, explainable outputs (fit score, urgency flag, action checklist) reduced manual review time by an estimated 3 hrs/week
 
 ---
 
 ### Publications
 
 **Clinically-Constrained Vision Transformers for Cross-Hospital Domain Generalization in Chest X-Ray Diagnosis**
-*Accepted — PHAROS-AIF-MIH Workshop, CVPR 2026*
+*Accepted PHAROS-AIF-MIH Workshop, CVPR 2026*
 Introduced Clinical Attention Consistency Regularization (CACR), a training framework guiding Vision Transformers toward anatomically grounded representations to improve generalization across hospital domains.
 
 ---
 
 ### Currently
 
-Working on applied ML pipelines at H2O Labs — moving research techniques into scalable, production systems, with an ongoing focus on retrieval-augmented architectures and model evaluation rigor.
+Working on applied ML pipelines at H2O Labs, moving research techniques into scalable, production systems, with an ongoing focus on retrieval-augmented architectures and model evaluation rigor.
 
 <p align="center">
 <em>Open to collaborations and opportunities in AI/ML Engineering, NLP, and Applied Research.</em>
